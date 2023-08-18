@@ -1,0 +1,14 @@
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\bin\Debug\netcoreapp2.1\TodoApi.DataAccess.deps.json
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\bin\Debug\netcoreapp2.1\TodoApi.DataAccess.dll
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\obj\Debug\netcoreapp2.1\TodoApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\obj\Debug\netcoreapp2.1\TodoApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\obj\Debug\netcoreapp2.1\TodoApi.DataAccess.AssemblyInfo.cs
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\bin\Debug\netcoreapp2.1\TodoApi.Entities.dll
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\obj\Debug\netcoreapp2.1\TodoApi.DataAccess.csprojAssemblyReference.cache
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\bin\Debug\netcoreapp2.1\TodoApi.DataAccess.runtimeconfig.json
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\bin\Debug\netcoreapp2.1\TodoApi.DataAccess.runtimeconfig.dev.json
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\bin\Debug\netcoreapp2.1\TodoApi.DataAccess.pdb
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\bin\Debug\netcoreapp2.1\TodoApi.Entities.pdb
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\obj\Debug\netcoreapp2.1\TodoApi.DataAccess.csproj.CopyComplete
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\obj\Debug\netcoreapp2.1\TodoApi.DataAccess.dll
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.DataAccess\obj\Debug\netcoreapp2.1\TodoApi.DataAccess.pdb

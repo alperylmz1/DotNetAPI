@@ -1,0 +1,9 @@
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Entities\bin\Debug\netcoreapp2.1\TodoApi.Entities.deps.json
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Entities\bin\Debug\netcoreapp2.1\TodoApi.Entities.dll
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Entities\bin\Debug\netcoreapp2.1\TodoApi.Entities.pdb
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Entities\obj\Debug\netcoreapp2.1\TodoApi.Entities.csprojAssemblyReference.cache
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Entities\obj\Debug\netcoreapp2.1\TodoApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Entities\obj\Debug\netcoreapp2.1\TodoApi.Entities.AssemblyInfoInputs.cache
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Entities\obj\Debug\netcoreapp2.1\TodoApi.Entities.AssemblyInfo.cs
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Entities\obj\Debug\netcoreapp2.1\TodoApi.Entities.dll
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Entities\obj\Debug\netcoreapp2.1\TodoApi.Entities.pdb

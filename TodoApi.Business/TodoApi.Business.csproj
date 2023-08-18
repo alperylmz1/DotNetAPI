@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TodoApi.DataAccess\TodoApi.DataAccess.csproj" />
+    <ProjectReference Include="..\TodoApi.Entities\TodoApi.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

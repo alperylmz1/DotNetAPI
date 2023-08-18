@@ -1,0 +1,14 @@
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\bin\Debug\netcoreapp2.1\TodoApi.Business.deps.json
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\bin\Debug\netcoreapp2.1\TodoApi.Business.dll
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\bin\Debug\netcoreapp2.1\TodoApi.Business.pdb
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\bin\Debug\netcoreapp2.1\TodoApi.DataAccess.dll
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\bin\Debug\netcoreapp2.1\TodoApi.Entities.dll
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\bin\Debug\netcoreapp2.1\TodoApi.DataAccess.pdb
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\bin\Debug\netcoreapp2.1\TodoApi.Entities.pdb
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\obj\Debug\netcoreapp2.1\TodoApi.Business.csprojAssemblyReference.cache
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\obj\Debug\netcoreapp2.1\TodoApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\obj\Debug\netcoreapp2.1\TodoApi.Business.AssemblyInfoInputs.cache
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\obj\Debug\netcoreapp2.1\TodoApi.Business.AssemblyInfo.cs
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\obj\Debug\netcoreapp2.1\TodoApi.Business.csproj.CopyComplete
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\obj\Debug\netcoreapp2.1\TodoApi.Business.dll
+C:\Users\alpyilmaz\source\repos\TodoApi\TodoApi.Business\obj\Debug\netcoreapp2.1\TodoApi.Business.pdb
