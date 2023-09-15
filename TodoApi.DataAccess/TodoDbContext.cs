@@ -16,5 +16,9 @@ namespace TodoApi.DataAccess
 
         public DbSet<Todo> Todos { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<Notification> Notifications { get; set; }    
+        //public DbSet<Password> Passwords { get; set; }
+        //public DbSet<Username> Usernames { get; set; }
+
     }
 }

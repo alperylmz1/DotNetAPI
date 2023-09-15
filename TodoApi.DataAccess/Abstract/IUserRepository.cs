@@ -17,5 +17,12 @@ namespace TodoApi.DataAccess.Abstract
 
         void DeleteUser(int id);
 
+        User LoginCheck(string userNameLogin, string passwordLogin);
+
+        User ChangeUserUsername(Username username);
+
+        //User ChangeUserPassword(User user, string userMailC, string userPasswordC);
+        User ChangeUserPassword(Password password);
+
     }
 }

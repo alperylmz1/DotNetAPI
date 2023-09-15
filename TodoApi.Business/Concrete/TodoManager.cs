@@ -42,5 +42,10 @@ namespace TodoApi.Business.Concrete
         {
             return _todoRepository.UpdateTodo(todo);
         }
+
+        public List<Todo> GetTodoByUserId(int id, string sortPref)
+        {
+            return _todoRepository.GetTodoByUserId(id, sortPref);
+        }
     }
 }

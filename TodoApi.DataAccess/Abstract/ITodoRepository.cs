@@ -16,5 +16,7 @@ namespace TodoApi.DataAccess.Abstract
         Todo UpdateTodo(Todo todo);
 
         void DeleteTodo(int id);
+
+        List<Todo> GetTodoByUserId(int id, string sortPref);
     }
 }

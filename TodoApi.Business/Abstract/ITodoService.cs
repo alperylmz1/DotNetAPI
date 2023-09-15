@@ -16,5 +16,7 @@ namespace TodoApi.Business.Abstract
         Todo UpdateTodo(Todo todo);
 
         void DeleteTodo(int id);
+
+        List <Todo> GetTodoByUserId(int userID, string sortPref);
     }
 }

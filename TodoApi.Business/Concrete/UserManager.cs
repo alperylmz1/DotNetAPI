@@ -12,9 +12,9 @@ namespace TodoApi.Business.Concrete
     {
         private IUserRepository _userRepository;
 
-        public UserManager()
+        public UserManager(IUserRepository userRepository)
         {
-            _userRepository = new UserRepository();
+            _userRepository = userRepository;
         }
 
 
@@ -42,5 +42,47 @@ namespace TodoApi.Business.Concrete
         {
             return _userRepository.UpdateUser(user);
         }
+
+        public User LoginCheck(string userNameLogin, string passwordLogin)
+        {
+            return _userRepository.LoginCheck(userNameLogin, passwordLogin);
+        }
+
+        public User ChangeUserUsername(Username username)
+        {
+            var user_ = _userRepository.ChangeUserUsername(username);
+
+            if (user_ != null)
+            {
+                user_.UserName = username.NewUserName;
+
+                _userRepository.UpdateUser(user_);
+
+                return user_;
+            }
+            else
+            {
+                return null;
+            }
+        }
+
+        public User ChangeUserPassword(Password password)
+        {
+            var user_ =  _userRepository.ChangeUserPassword(password);
+
+            if (user_ != null)
+            {
+                user_.UserPassword = password.NewUserPassword;
+
+                _userRepository.UpdateUser(user_);
+
+                return user_;
+            }
+            else
+            {
+                return null;
+            }
+        }
+
     }
 }

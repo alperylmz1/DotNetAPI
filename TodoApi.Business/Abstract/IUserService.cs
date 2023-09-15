@@ -16,5 +16,11 @@ namespace TodoApi.Business.Abstract
         User UpdateUser(User user);
 
         void DeleteUser(int id);
+
+        User LoginCheck(string userNameLogin, string passwordLogin);
+
+        User ChangeUserUsername(Username username);
+
+        User ChangeUserPassword(Password password);
     }
 }

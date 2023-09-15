@@ -14,6 +14,8 @@ namespace TodoApi.Entities
 
         public int UserId { get; set; }
 
+        public string UserMail { get; set; }
+
         public string UserName { get; set; }
 
         public int UserRole { get; set; }

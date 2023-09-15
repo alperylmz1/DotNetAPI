@@ -19,6 +19,31 @@ namespace TodoApi.DataAccess.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+            modelBuilder.Entity("TodoApi.Entities.Notification", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Message");
+
+                    b.Property<int>("MessageStatus");
+
+                    b.Property<string>("MessageTitle");
+
+                    b.Property<int>("ReceiverId");
+
+                    b.Property<int>("SenderId");
+
+                    b.Property<string>("SenderName");
+
+                    b.Property<DateTime>("SentDate");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Notifications");
+                });
+
             modelBuilder.Entity("TodoApi.Entities.Todo", b =>
                 {
                     b.Property<int>("Id")
@@ -31,13 +56,15 @@ namespace TodoApi.DataAccess.Migrations
 
                     b.Property<DateTime>("EndDate");
 
-                    b.Property<DateTime>("StartDate");
-
                     b.Property<bool>("TdActive");
 
-                    b.Property<bool>("TdStatus");
+                    b.Property<bool>("TdFavorite");
+
+                    b.Property<int>("TdStatus");
 
                     b.Property<string>("TdText");
+
+                    b.Property<string>("TdTitle");
 
                     b.Property<int>("UserId");
 
@@ -53,6 +80,8 @@ namespace TodoApi.DataAccess.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<int>("UserId");
+
+                    b.Property<string>("UserMail");
 
                     b.Property<string>("UserName");
 

@@ -54,5 +54,15 @@ namespace TodoApi.API.Controllers
             _todoService.DeleteTodo(id);
         }
 
+        [HttpGet("user/{id}")]
+        public List<Todo> GetByUser(int id, string sortPref)
+        {
+            string sortHeaderVal = Request.Headers["Sort-Pref"].ToString();
+
+            
+
+            return _todoService.GetTodoByUserId(id, sortHeaderVal);
+        }
+
     }
 }
